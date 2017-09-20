@@ -1,4 +1,4 @@
-# This repository holds the python code to a Rock_Paper_Scissor game.
+# This repository holds the python code to a Rock, Paper, Scissor game.
 
 The person running the code is one of the player, and the other player is the computer.  The computer randomly generate "rock", "paper" or "scissor" and you as the human player will enter "r", "p" or "s".  
 
